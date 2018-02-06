@@ -23,7 +23,8 @@ Please answer this 3 question survey (by replying to this newsletter). Correct a
 Seanan brought the spirit of Foolscap to her panel and participation. Her masterful story telling brought us to tears of
 laughter and amazed us with the depth of research, education, and legendary book collection that goes into each book. The 
 singing was an extra bonus that she shared with us.
-- "My fears of cat-transmitted bubonic plague have been put to rest." Beth Mitcham
-- "My nighttime routine now includes Megaraptor checks." Douglas Beal
+
+> "My fears of cat-transmitted bubonic plague have been put to rest." Beth Mitcham
+> "My nighttime routine now includes Megaraptor checks." Douglas Beal
 
 ###### Signed: Foolcap Captain and First Officer, Beth Mitcham and Douglas Beal
