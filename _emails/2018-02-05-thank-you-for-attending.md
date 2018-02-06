@@ -27,8 +27,8 @@ singing was an extra bonus that she shared with us.
 
 > "My fears of cat-transmitted bubonic plague have been put to rest." Beth Mitcham
 
-> "My nighttime routine now includes Megaraptor checks." Douglas Beal
+> "My nighttime routine now includes Megaraptor perimeter checks before bed." Douglas Beal
 
 ---
 
-Signed: Foolcap Captain and First Officer, Beth Mitcham and Douglas Beal
+Signed: Foolscap Captain and First Officer, Beth Mitcham and Douglas Beal
