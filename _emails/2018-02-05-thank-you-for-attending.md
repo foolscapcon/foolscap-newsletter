@@ -19,7 +19,7 @@ If you’d like to volunteer for planning or at next year’s convention, what w
 
 *For this survey, all answers count as correct. Yes, even N/A*
 
-### Applause For Seanan McGuire
+### Applause For GoH Seanan McGuire
 Seanan brought the spirit of Foolscap to her panel and participation. Her masterful story telling brought us to tears of
 laughter and amazed us with the depth of research, education, and legendary book collection that goes into each book. The 
 singing was an extra bonus that she shared with us.
