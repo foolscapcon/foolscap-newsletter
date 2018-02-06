@@ -9,9 +9,9 @@ We at Foolscap, and particularly I as Captain, want to thank all our members for
 Foolscap 2019 will run from Feb 1-3, 2019 in the Hilton Seattle Airport. You heard it here first! (We'll update the web site ASAP.)
 
 ### Take the Foolscap Survey
-Please answer this 3 question survey (by replying to this newsletter). Correct answers will add to your score in this years Foolscap Trivia Champion Contest!
+Please answer this 3 question survey (by replying to this newsletter). Correct answers will add to your score in this year's Foolscap Trivia Champion Contest!
 
-If you attended Foolscap this year, and you had one sentence to describe your Foolscap experience this year, what would that sentence be?
+What single sentence describes your Foolscap experience this year?
 
 Do you plan to come to Foolscap next year?
 
@@ -19,7 +19,7 @@ If you’d like to volunteer for planning or at next year’s convention, what w
 
 *For this survey, all answers count as correct. Yes, even N/A*
 
-### Applause For Seanan McGuire
+### Applause For GoH Seanan McGuire
 Seanan brought the spirit of Foolscap to her panel and participation. Her masterful story telling brought us to tears of
 laughter and amazed us with the depth of research, education, and legendary book collection that goes into each book. The 
 singing was an extra bonus that she shared with us.
