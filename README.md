@@ -1,1 +1,4 @@
 # foolscap-newsletter
+```
+bundle install
+```
