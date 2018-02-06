@@ -11,11 +11,11 @@ Foolscap 2019 will run from Feb 1-3, 2019 in the Hilton Seattle Airport. You hea
 ### Take the Foolscap Survey
 Please answer this 3 question survey (by replying to this newsletter). Correct answers will add to your score in this year's Foolscap Trivia Champion Contest!
 
-What single sentence describes your Foolscap experience this year?
+1. What single sentence describes your Foolscap experience this year?
 
-Do you plan to come to Foolscap next year?
+2. Do you plan to come to Foolscap next year?
 
-If you’d like to volunteer for planning or at next year’s convention, what would you like to do?
+3. If you’d like to volunteer for planning or at next year’s convention, what would you like to do?
 
 *For this survey, all answers count as correct. Yes, even N/A*
 
