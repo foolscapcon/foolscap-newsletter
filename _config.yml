@@ -1,6 +1,17 @@
 capuchin:
-  from_email: YOUR_EMAIL
+  from_email: response@foolscap.org
   from_name: Foolscap
-  list_id: YOUR_ID
-  template_id: YOUR_TEMPLATE_ID
-  delivery_time: "08:30:00"
+  # announce f87307be68
+  # test bfa7acebd1
+  list_id: bfa7acebd1
+  # https://us1.api.mailchimp.com/playground/
+  #
+  # "id": 379793,
+  # 		"type": "user",
+  # 		"name": "2019 foolscap template",
+# "id": 379801,
+# 			"type": "user",
+# 			"name": "2019 Foolscap HTML Template",  
+  template_id: 379801
+  delivery_time: "20:40:00"
+#https://us1.admin.mailchimp.com/templates/share?id=1299761_2c774bc8fd5e352c852b_us1

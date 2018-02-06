@@ -1,4 +1,5 @@
 # foolscap-newsletter
 ```
-bundle install
+gem install capuchin
+gem install commander
 ```
