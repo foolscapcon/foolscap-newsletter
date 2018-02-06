@@ -3,9 +3,9 @@ subject: "Thank You for Attending"
 ---
 
 ### Thank You For Attending
-We at Foolscap, and particularly I as Captain, want to thank all our members for coming and making it a great weekend. You brought energy, ideas, music and creativity, which made for a lovely weekend of conversations, recommendations, learning, and laughing. Special thanks to Judy and Beth who brought the comfortable chairs for our commons. If you missed your chance to color our program art, the link is here: [Foolscap cover art] (http://files.foolscap.org/files/line-Foolscap-poster-800px-straight.png).
+We at Foolscap, and particularly I as Captain, want to thank all our members for coming and making it a great weekend. You brought energy, ideas, music and creativity, which made for a lovely weekend of conversations, recommendations, learning, and laughing. Special thanks to Judy and Beth who brought the comfortable chairs for our commons. If you missed your chance to color our program art, the link is here: [Foolscap cover art](http://files.foolscap.org/files/line-Foolscap-poster-800px-straight.png).
 
-### Foolscap 2019 Feb 1-3. Put Us On Your Calendar
+### Foolscap 2019 Feb 1-3. Put Us On Your Calendar!
 Foolscap 2019 will run from Feb 1-3, 2019 in the Hilton Seattle Airport. You heard it here first! (We'll update the web site ASAP.)
 
 ### Take the Foolscap Survey
