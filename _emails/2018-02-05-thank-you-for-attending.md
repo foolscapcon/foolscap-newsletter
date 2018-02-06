@@ -24,7 +24,11 @@ Seanan brought the spirit of Foolscap to her panel and participation. Her master
 laughter and amazed us with the depth of research, education, and legendary book collection that goes into each book. The 
 singing was an extra bonus that she shared with us.
 
+
 > "My fears of cat-transmitted bubonic plague have been put to rest." Beth Mitcham
+
 > "My nighttime routine now includes Megaraptor checks." Douglas Beal
 
-###### Signed: Foolcap Captain and First Officer, Beth Mitcham and Douglas Beal
+---
+
+Signed: Foolcap Captain and First Officer, Beth Mitcham and Douglas Beal
