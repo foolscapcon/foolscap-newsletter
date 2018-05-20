@@ -32,3 +32,7 @@ singing was an extra bonus that she shared with us.
 ---
 
 Signed: Foolscap Captain and First Officer, Beth Mitcham and Douglas Beal
+
+
+---
+Originally sent as [newsletter](http://mailchi.mp/e5601f478365/rkg8dslpx2)
