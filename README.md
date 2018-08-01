@@ -9,6 +9,7 @@ gem install commander
 
 # send
 ```
+# from foolscap-newsletter directory:
 capuchin create <subject>
 capuchin schedule _email/<filename> 
 ```
