@@ -17,6 +17,6 @@ For an added bonus, Nancy comes with [Jack Skillingstead](https://www.jackskilli
 
 
 ### Foolscap 2019 Feb 1-3. Put Us On Your Calendar!
-[Foolscap 2019](http://foolscap.org) will run from Feb 1-3, 2019 in the Hilton Seattle Airport. You heard it here twice! Registration is now [open](https://www.foolscap.org/registration/).
+[Foolscap 2019](https://www.foolscap.org) will run from Feb 1-3, 2019 in the Hilton Seattle Airport. You heard it here twice! Registration is now [open](https://www.foolscap.org/registration/).
 
 
