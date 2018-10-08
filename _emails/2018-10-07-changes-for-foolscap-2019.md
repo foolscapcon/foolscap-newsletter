@@ -13,7 +13,7 @@ A great advantage of preplanning is more panels that require preparation.  Fools
 
 ### Friday Bring Your Own Music!
 
-We also really enjoyed last year’s music party, and we’d like to do it again. Please be on the lookout for songs to bring to our Bring Your Own Music even on Friday night. We’ll provide some snacks and you bring the tunes. 
+We also really enjoyed last year’s music party, and we’d like to do it again. Please be on the lookout for songs to bring to our BYOM event on Friday night. We’ll provide some snacks and you bring the tunes. 
 
 
 ### Book Your Room!
