@@ -11,7 +11,7 @@ Foolscap offers Writing Workshops Saturday at 10 a.m. and Saturday at 2 p.m.). I
 
 * Writing Tight But Epic: How to Make and Break Empires in 50,000 Words or Less (Instructor: Spencer Ellsworth)	
 
-Visit the workshop page at Foolscap.org to register for the workshops and see detailed session descriptions and instructor bios.
+Visit [the workshop page](https://www.foolscap.org/workshops/) at Foolscap.org to register for the workshops and see detailed session descriptions and instructor bios.
 
 
 ### Planning to Propose Some Panels?
