@@ -12,19 +12,9 @@ everything that makes maturity grand.
 members have donated spare years that we can issue for the duration of
 the con.)
 
-### Bring New to Foolscap: Student Rates Available 
+### Bring New Friends to Foolscap
 
-If this is your first membership at Foolscap, go ahead and sign up at
-the Student Rate. Traditionally student rates are for students (people
-18 and under, or with student IDs. This year we are also including
-people who have never tried the Foolscap experience and want to learn
-how we do this Open Programming thing.
-
-Remember to Buy your weekend membership in advance for just $60 ($25
-students -both in classrooms and newcomers). Weekend memberships will
-be $75 at the door. Day memberships are available at the door, as
-well.  Visit the Foolscap registration page to purchase memberships
-and Bite of Foolscap banquet tickets.
+If you have a friend who would be a great Foolscap Member, invite them along! Remember that our Student Membership applies both to students (attending college or schools) and to First Time Members (Students of Foolscap). So newcomers can join our convention for $25.
 
 
 ### Today is the Last Day to Book Your Room
