@@ -1,5 +1,5 @@
 ---
-subject: "Writing Workshops and Book Now"
+subject: "Book Now! Foolscap and Writing Workshops"
 ---
 ### Foolscap 2019 - Coming of Age:
 
