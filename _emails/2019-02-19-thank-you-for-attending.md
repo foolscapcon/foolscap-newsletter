@@ -22,8 +22,9 @@ Message from Newly Promoted Captain Douglas Beal
 Foolscap 2020 will return to the Hilton Seattle Airport on the second weekend in February (7th through 9th). 
 
 ### Applause for Nancy Kress
+We’d like to thank Nancy Kress for her graceful turn as Foolscap Guest of Honor. She managed to out-Foolscap Foolscap with her reading and ensuing discussion of the roles of stories in affirming or challenging our ethical worldviews. As fitting for our theme of Coming of Age, Nancy provides a great example of adulthood both in her works and in her personality. I hope I grow up to be cool like her!
 
-### Particpate in Building Foolscap
+### Participate in Building Foolscap
 
 
 ### Signed
