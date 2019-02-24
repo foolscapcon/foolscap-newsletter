@@ -24,7 +24,11 @@ Foolscap 2020 will return to the Hilton Seattle Airport on the second weekend in
 ### Applause for Nancy Kress
 We’d like to thank Nancy Kress for her graceful turn as Foolscap Guest of Honor. She managed to out-Foolscap Foolscap with her reading and ensuing discussion of the roles of stories in affirming or challenging our ethical worldviews. As fitting for our theme of Coming of Age, Nancy provides a great example of adulthood both in her works and in her personality. I hope I grow up to be cool like her!
 
+### 🎙 The Voices of Foolscap 🎙 Podcast Teaser
+Listen to a short preview of the new Foolscap podcast.  [https://podcast.foolscap.org/e000-teaser/](https://podcast.foolscap.org/e000-teaser/)
+
 ### Participate in Building Foolscap
+Foolscap is a small convention, but it still needs a committee to make it happen. Please join our convention committee! Our concom is particularly in need of someone who knows how to communicate on social media, or how to do publicity in general.  If you want to help out in that or any other capacity, or just to watch for a year to see if there is anything you are interested in, come join us! Send an email to [volunteers@foolscap.org](mailto:volunteers@foolscap.org) for meeting details. 🍬
 
 
 ### Signed
