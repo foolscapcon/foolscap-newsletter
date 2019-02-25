@@ -16,7 +16,8 @@ It was a privilege and a pleasure to serve you as Captain for the past two years
 Foolscap came to my attention from Ursula Vernon  But it captured my heart in 2015 with panels like Lawn Crayfish are Real (and other weird nature stuff) and Craft 'n Meet. Soon I was helping with teardown, decompressing at a post con meal, and helping out on the concom.  
 Open Progamming 
 Soon I was wrangling websites and helping with planning. 
-
+We weathered some rough times together and came through strong. 
+Future looking statements
 -Freshly Minted Captain Douglas Beal
 
 
