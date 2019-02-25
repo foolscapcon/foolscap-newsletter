@@ -13,9 +13,11 @@ It was a privilege and a pleasure to serve you as Captain for the past two years
 -Retiring Captain Beth Mitcham
 
 ### Captain's Log, Stardate 47634.44, USS Foolscap (ANS-42)
-Message from Newly Promoted Captain Douglas Beal
+Foolscap came to my attention from Ursula Vernon  But it captured my heart in 2015 with panels like Lawn Crayfish are Real (and other weird nature stuff) and Craft 'n Meet. Soon I was helping with teardown, decompressing at a post con meal, and helping out on the concom.  
+Open Progamming 
+Soon I was wrangling websites and helping with planning. 
 
--Freshly Promoted Captain Douglas Beal
+-Freshly Minted Captain Douglas Beal
 
 
 ### Foolscap 2020 - Save the Date - Feb 7-9
@@ -28,7 +30,7 @@ We’d like to thank Nancy Kress for her graceful turn as Foolscap Guest of Hono
 Listen to a short preview of the new Foolscap podcast.  [Start By Looking Back: First Bite](https://podcast.foolscap.org/000/)
 
 ### Participate in Building Foolscap
-Foolscap is a small convention, but it still needs a committee to make it happen. Please join our convention committee! Our concom is particularly in need of someone who knows how to communicate on social media, or how to do publicity in general.  If you want to help out in that or any other capacity, or just to watch for a year to see if there is anything you are interested in, come join us! Send an email to [volunteers@foolscap.org](mailto:volunteers@foolscap.org) for meeting details. 🍬
+Foolscap is a small convention, but it still needs a committee to make it happen. Please join our convention committee March 6th in Queen Anne! Our concom is particularly in need of someone who knows how to communicate on social media, or how to do publicity in general.  If you want to help out in that or any other capacity, or just to watch for a year to see if there is anything you are interested in, come join us! Send an email to [volunteers@foolscap.org](mailto:volunteers@foolscap.org) for meeting details. 🍬
 
 
 ### Signed
