@@ -4,13 +4,15 @@ capuchin:
   list_id: f87307be68  # announce f87307be68
 #  list_id: bfa7acebd1 # test bfa7acebd1
   # https://us1.api.mailchimp.com/playground/
+  # https://us1.admin.mailchimp.com/account/api/
   #
   # "id": 379793,
   # 		"type": "user",
   # 		"name": "2019 foolscap template",
 # "id": 379801,
 # 			"type": "user",
-# 			"name": "2019 Foolscap HTML Template",  
-  template_id: 379801
+# 			"name": "2019 Foolscap HTML Template",
+# id: 388297
+  template_id: 388297
   delivery_time: "20:40:00"
 #https://us1.admin.mailchimp.com/templates/share?id=1299761_2c774bc8fd5e352c852b_us1
