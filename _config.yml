@@ -1,6 +1,6 @@
 capuchin:
-  from_email: response@foolscap.org
-  from_name: Foolscap
+  from_email: info@foolscap.org
+  from_name: Foolscap Info
   list_id: f87307be68  # announce f87307be68
 #  list_id: bfa7acebd1 # test bfa7acebd1
   # https://us1.api.mailchimp.com/playground/
