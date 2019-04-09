@@ -1,5 +1,5 @@
 ---
-subject: "Join us at Norwescon "
+subject: "Foolscap 2020 at Norwescon, Send Feedback, Book Your Room"
 ---
 
 ### We Will Have a Table at Norwescon
@@ -10,7 +10,7 @@ get in touch.
 
 ### Foolscap Feedback - Now with Prizes!
 Reply to this newsletter with answers these questions by May 1st to
-enter a drawing (powered by random.org) 20$ Gift Card for a local
+enter a drawing (powered by random.org) $20 Gift Card for a local
 bookstore.
 - What did you enjoy from Foolscap 2019?
 - What would you would change for Foolscap 2020?
