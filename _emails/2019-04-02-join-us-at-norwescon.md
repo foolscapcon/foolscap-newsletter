@@ -3,13 +3,15 @@ subject: "Join us at Norwescon "
 ---
 
 ### We Will Have a Table at Norwescon
-We will be at Norwescon with Foolscap colored M&M's.  If you would
-like to help convey the expirence of Foolscap to prospectives, [reply
-to the newsletter](mailto:info@foolscap.org) and we will get in touch.
+We will be at Norwescon with Foolscap colored M&M's. This is a great
+chance to get in front of like-minded people.  If you would like to
+help, [reply to the newsletter](mailto:info@foolscap.org) and we will
+get in touch.
 
 ### Foolscap Feedback - Now with Prizes!
 Reply to this newsletter with answers these questions by May 1st to
-enter a drawing 20$ Gift Card for a local bookstore.
+enter a drawing (powered by random.org) 20$ Gift Card for a local
+bookstore.
 - What did you enjoy from Foolscap 2019?
 - What would you would change for Foolscap 2020?
 
