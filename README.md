@@ -7,6 +7,9 @@ gem install capuchin
 gem install commander
 ```
 
+# configure
+MAILCHIMP_API_KEY goes in .env (don't check into git)
+
 # create email
 ```
 # from foolscap-newsletter directory:
