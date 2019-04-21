@@ -4,6 +4,8 @@ subject: "Foolscap 2020 Guest of Honor Cherie Priest"
 
 ### Foolscap Announces Cherie Priest as 2020 Guest of Honor
 
+We are delighted to welcome author Cherie Priest as our GoH in 2020. Seattle is featured prominently in her influential steampunk novel Boneshaker. 
+
 ![Photo of Cherie Priest](https://gallery.mailchimp.com/b53b9cb1a532a60b0f4675146/images/61dfaa4a-c9f1-4c8c-970e-d52e5e04ac76.jpg)
 Photo by Libby Bulloff
 
