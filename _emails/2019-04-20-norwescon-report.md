@@ -4,18 +4,17 @@ subject: "Norwescon Report"
 
 ### [Seattle WorldCon 2025 Bid](https://www.facebook.com/Seattle2025/)
 
-Seattle is up against Perth, Australia. The next meeting will be in May, details should appear on [facebook](https://www.facebook.com/Seattle2025/).
+Seattle is up against Perth, Australia. Details should appear on [facebook](https://www.facebook.com/Seattle2025/), possibly in July.
 
 Kathy Bond is the chair for the Seattle WorldCon 2025 Bid.  She was Legal Advisor to WorldCon 73, Sasquan, Spokane; and Operations Division Head for WorldCon 76, San Jose 2018.
 
 
 ### Norwescon 
 
-Table!
+We had a ![table](http://foolscap.org/content/images/2019/06/IMG_8565.jpg) at Norwescon. We talked about Foolscap with potential and past members.
 
-Pictures!
 
-### Survey
+![IMG_8575](http://foolscap.org/content/images/2019/06/IMG_8575.jpg)
 
 ### Past GoH Gossip
 
