@@ -21,7 +21,7 @@ Please do! For example, our panelist Nancy Kress talked about her new book on Sc
 
 ### Reminder: Book Your Room!
 
-All this is happening at the Sea-Tac Hilton. It’s time to book your rooms! Use code Foolscap19 to get our [special rate](https://book.passkey.com/go/foolscap2019).
+All this is happening at the Sea-Tac Hilton. It’s time to book your rooms! this link to get our [special rate](https://book.passkey.com/go/foolscap2019).
 
 ---
 
