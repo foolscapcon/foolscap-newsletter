@@ -2,11 +2,12 @@
 subject: "Foolscap 2020 - Almost There!"
 ---
 
-Welcome to 2020!
-
-
 ### Foolscap 2020 Programming
-Foolscap is just two months away! This year, in addition to open space programming, we’ll be pre-populating the schedule with some presentations, workshops, and other surprises. This way, we can host interesting events that benefit from having advanced notice and preparation. If you want to show something, lead an activity, or give a performance, [fill out our survey](https://forms.gle/r395Dx7MN8CFU67V9), or get in touch with us at [programming@foolscap.org](mailto:programming@foolscap.org)!
+Foolscap 2020 is nearly here, and one of the big new surprises this year is the Foolscap Cabaret! We’re turning the Commons into a variety show on Saturday night, with a Foolscap-themed twist, and we can’t do it alone! If you have ideas for performances, participatory games, or anything else that might raise a smile, let us know by filling out [the programming survey](https://forms.gle/r395Dx7MN8CFU67V9).
+
+We're also still accepting programming submissions in advance of the con! If you have any ideas for a program item that might benefit from pre-planning, fill out [our survey](https://forms.gle/r395Dx7MN8CFU67V9), or get in touch with us at [programming@foolscap.org](mailto:programming@foolscap.org).
+If your program item is selected, expect to hear back from us starting next week - as is traditional for Foolscap, we're trying hard to fit in as many of the suggested items as we can!
+
 
 ### 🏨 Book Hotel Rooms by Friday, January 10th
 
