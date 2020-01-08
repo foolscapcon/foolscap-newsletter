@@ -6,7 +6,7 @@ Foolscap is just two months away! This year, in addition to open space programmi
 
 ### 🏨 Book Hotel Rooms Now To Enjoy Expanded Programming — and Sleep
 
-It’s time to book your rooms! Join us at the Sea-Tac Hilton and don't worry about driving home.  Visit the [Foolscap website](https://www.foolscap.org/location/) or use code Foolscap20 to get our [special rate](https://book.passkey.com/go/foolscap2020).
+It’s time to book your rooms! Join us at the Sea-Tac Hilton and don't worry about driving home.  Visit the [Foolscap website](https://www.foolscap.org/location/) or use code Foolscap20 at the [Hilton booking site](https://book.passkey.com/go/foolscap2020) to get our special rate.
 
 
 📆 Foolscap 2020 - Feb 7-9
