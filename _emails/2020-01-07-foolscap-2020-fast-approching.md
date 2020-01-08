@@ -3,7 +3,10 @@ subject: "Foolscap 2020 - Almost There!"
 ---
 
 ### Foolscap 2020 Programming
-Foolscap 2020 is nearly here, and one of the big new surprises this year is the Foolscap Cabaret! We’re turning the Commons into a variety show on Saturday night, with a Foolscap-themed twist, and we can’t do it alone! If you have ideas for performances, participatory games, or anything else that might raise a smile, let us know by filling out [the programming survey](https://forms.gle/r395Dx7MN8CFU67V9).
+
+ Jump in to the most exciting part of the Foolscap experience: giving your fellow Foolscap members the best panel experiences of their lives! Come up with an idea and propose it. Invite fellow panelists, let us suggest a few— or open the discussion to the entire convention. This is one of the best parts of having a small convention of creatives and we know you’ll enjoy it.
+ 
+Saturday night the Foolscap Cabaret will turn the Commons into a variety show with a Foolscap-themed twist. If you have ideas for performances, participatory games, or anything else that might raise a smile, let us know by filling out [the programming survey](https://forms.gle/r395Dx7MN8CFU67V9).
 
 We're also still accepting programming submissions in advance of the con! If you have any ideas for a program item that might benefit from pre-planning, fill out [our survey](https://forms.gle/r395Dx7MN8CFU67V9), or get in touch with us at [programming@foolscap.org](mailto:programming@foolscap.org).
 If your program item is selected, expect to hear back from us starting next week - as is traditional for Foolscap, we're trying hard to fit in as many of the suggested items as we can!
