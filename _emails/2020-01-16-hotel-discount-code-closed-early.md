@@ -7,8 +7,11 @@ TODO: Jason
 
 # Workshop 
 Sunday is the deadline to register for one or both of the Foolscap writers workshops:
+
 Two Heads, Four Hands, One Story: Co-authoring fiction (instructors: Manny Frishberg, Amy Thomson, and Edd Vick). Friday, Feb. 7, 2-4:30 p.m.
+
 Reading Your Work Aloud (instructors: Theresa Barker and Nicole Bade of Two Hour Transport). Saturday, Feb. 8, 2-4:30 p.m.
+
 To register, simply send your name and workshop choices to [workshop@foolscap.org](mailto:workshop@foolscap.org). Workshops are free to convention members. You’ll find more details on the workshops here: [https://www.foolscap.org/workshops/](https://www.foolscap.org/workshops/)
 
 
