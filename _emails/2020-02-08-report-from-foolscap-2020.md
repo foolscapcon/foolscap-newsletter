@@ -28,6 +28,10 @@ subject: "Report from Foolscap 2020"
 # Call for Feedback
 We heard from a lot of you at Foolscap, but I know how busy it can be! Send in your kudos, feedback, and suggestions to info@foolscap.org.
 
-# Appreciation for Cherie Priest
+# Thank You to Cherie Priest
+A warm thank you to our Guest of Honor Cherie Priest, who provided countless conversations, a rich interview full of personal notes and insights on writing, a guide to a hazardous hobby, won our poetry slam, and revealed her hidden TV celebrity status. We hope she returns to future Foolscaps!
+
+**DON'T TURN AROUND!**
+
 # Foolscap 2021 - date date date
 # Table at Norwescon
