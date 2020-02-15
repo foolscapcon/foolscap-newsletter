@@ -3,7 +3,7 @@ subject: "Report from Foolscap 2020"
 ---
 
 
-# typesetting
+# Report from Foolscap - typesetting
 - [https://en.wikipedia.org/wiki/Papyrus](https://en.wikipedia.org/wiki/Papyrus)_(typeface)
 - [https://en.wikipedia.org/wiki/Garamond](https://en.wikipedia.org/wiki/Garamond)
 - [https://www.fontsquirrel.com/fonts/Diavlo](https://www.fontsquirrel.com/fonts/Diavlo)
@@ -20,3 +20,14 @@ subject: "Report from Foolscap 2020"
 ## What do modern electronic techniques enabled:
 - unified design
 - print - ebooks - web
+
+# Report from Foolscap - Cabaret
+## Photos
+
+# Captain's Log_request
+# Call for Feedback
+We heard from a lot of you at Foolscap, but I know how busy it can be! Send in your kudos, feedback, and suggestions to info@foolscap.org.
+
+# Appreciation for Cherie Priest
+# Foolscap 2021 - date date date
+# Table at Norwescon
