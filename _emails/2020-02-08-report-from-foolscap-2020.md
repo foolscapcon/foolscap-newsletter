@@ -2,6 +2,8 @@
 subject: "Report from Foolscap 2020"
 ---
 
+# 🚀Captain's Log, Stardate 48634.44, USS Foolscap (ANS-42)🚀
+
 
 # Report from Foolscap - typesetting
 - [https://en.wikipedia.org/wiki/Papyrus](https://en.wikipedia.org/wiki/Papyrus)_(typeface)
@@ -13,7 +15,7 @@ subject: "Report from Foolscap 2020"
 - Typographer's Bible [https://www.amazon.com/Elements-Typographic-Style-Version-Anniversary/dp/0881792128](https://www.amazon.com/Elements-Typographic-Style-Version-Anniversary/dp/0881792128)
 
 
-## Publishing SW  
+## Publishing Software
 - Cheap at 50$ (or 150$ for entire suite, including photo-shop like Affinity Photo) [https://affinity.serif.com/en-gb/publisher/](https://affinity.serif.com/en-gb/publisher/)
 - Free! Open Source! interface similar to Inkscap [https://www.scribus.net/](https://www.scribus.net/)
     
@@ -24,7 +26,7 @@ subject: "Report from Foolscap 2020"
 # Report from Foolscap - Cabaret
 ## Photos
 
-# Captain's Log_request
+
 # Call for Feedback
 We heard from a lot of you at Foolscap, but I know how busy it can be! Send in your kudos, feedback, and suggestions to info@foolscap.org.
 
@@ -33,5 +35,7 @@ A warm thank you to our Guest of Honor Cherie Priest, who provided countless con
 
 **DON'T TURN AROUND!**
 
-# Foolscap 2021 - date date date
 # Table at Norwescon
+
+# 📆Foolscap 2021 - date date date📆
+
