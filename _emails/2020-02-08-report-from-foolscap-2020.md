@@ -5,7 +5,13 @@ subject: "Report from Foolscap 2020"
 # 🚀Captain's Log, Stardate 48634.44, USS Foolscap (ANS-42)🚀
 
 
-# Report from Foolscap - typesetting
+
+# 🗳 Report from Foolscap - Send in Your Feedback 🗳
+We heard from a lot of you at Foolscap, but I know how busy it can be! Send in your kudos, feedback, and suggestions to info@foolscap.org.
+
+# 🥳Report from Foolscap - Cabaret🥳
+
+# 🔠Report from Foolscap - typesetting🔠
 - [https://en.wikipedia.org/wiki/Papyrus](https://en.wikipedia.org/wiki/Papyrus)_(typeface)
 - [https://en.wikipedia.org/wiki/Garamond](https://en.wikipedia.org/wiki/Garamond)
 - [https://www.fontsquirrel.com/fonts/Diavlo](https://www.fontsquirrel.com/fonts/Diavlo)
@@ -23,12 +29,11 @@ subject: "Report from Foolscap 2020"
 - unified design
 - print - ebooks - web
 
-# Report from Foolscap - Cabaret
-## Photos
+
+# Photos
 
 
-# Call for Feedback
-We heard from a lot of you at Foolscap, but I know how busy it can be! Send in your kudos, feedback, and suggestions to info@foolscap.org.
+
 
 # Thank You to Cherie Priest
 A warm thank you to our Guest of Honor Cherie Priest, who provided countless conversations, a rich interview full of personal notes and insights on writing, a guide to a hazardous hobby, won our poetry slam, and revealed her hidden TV celebrity status. We hope she returns to future Foolscaps!
@@ -36,6 +41,7 @@ A warm thank you to our Guest of Honor Cherie Priest, who provided countless con
 **DON'T TURN AROUND!**
 
 # Table at Norwescon
+link & date
 
-# 📆Foolscap 2021 - date date date📆
-
+# 📆Foolscap 2021 - Feburary 12-14th date📆
+Foolscap 2021 will take place Feburary 12-14 at the Hilton Seattle Airport.
