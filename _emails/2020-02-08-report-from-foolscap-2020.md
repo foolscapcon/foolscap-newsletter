@@ -41,7 +41,11 @@ A warm thank you to our Guest of Honor Cherie Priest, who provided countless con
 **DON'T TURN AROUND!**
 
 # Table at Norwescon
-link & date
+Norwescon 43
+
+"The Longest Night"
+April 9–12, 2020 | SeaTac, WA
+
 
 # 📆Foolscap 2021 - Feburary 12-14th date📆
 Foolscap 2021 will take place Feburary 12-14 at the Hilton Seattle Airport.
