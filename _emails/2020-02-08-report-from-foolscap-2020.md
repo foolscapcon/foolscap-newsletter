@@ -3,6 +3,10 @@ subject: "Report from Foolscap 2020"
 ---
 
 # 🚀Captain's Log, Stardate 48634.44, USS Foolscap (ANS-42)🚀
+Thanks for comming to Foolscap 2020!  It wouldn't have been possible without all the great members.  I would like to send special thanks out to Cherie, Karen, Tom, Jeff, Beth, Steven, Jeff, Jason, Wing, Stephanie, Lile, Kathleen, Alexander, Manny, Edd, Theresa, Nicole.  I expect 2021 to be even better, and I signed on for another year to help make that happen.
+
+In for a penny, in for a pound!
+- Captain Douglas Beal
 
 
 
@@ -10,6 +14,7 @@ subject: "Report from Foolscap 2020"
 We heard from a lot of you at Foolscap, but I know how busy it can be! Send in your kudos, feedback, and suggestions to info@foolscap.org.
 
 # 🥳Report from Foolscap - Cabaret🥳
+TODO
 
 # 🔠Report from Foolscap - typesetting🔠
 - [https://en.wikipedia.org/wiki/Papyrus](https://en.wikipedia.org/wiki/Papyrus)_(typeface)
@@ -30,22 +35,25 @@ We heard from a lot of you at Foolscap, but I know how busy it can be! Send in y
 - print - ebooks - web
 
 
-# Photos
+# 📷Photos📷
+TODO
 
 
 
-
-# Thank You to Cherie Priest
+# 📚Thank You to Cherie Priest📚
 A warm thank you to our Guest of Honor Cherie Priest, who provided countless conversations, a rich interview full of personal notes and insights on writing, a guide to a hazardous hobby, won our poetry slam, and revealed her hidden TV celebrity status. We hope she returns to future Foolscaps!
 
 **DON'T TURN AROUND!**
 
-# Table at Norwescon
+# Table at Norwescon <a href="https://www.norwescon.org/" title="Norwescon: The Pacific Northwest's Premier Science Fiction and Fantasy Convention!"><img src="https://www.norwescon.org/promos/nwc-microbar-88x31.png" alt="Norwescon" /></a>
+
+TODO
+
 Norwescon 43
 
 "The Longest Night"
 April 9–12, 2020 | SeaTac, WA
 
 
-# 📆Foolscap 2021 - Feburary 12-14th date📆
+# 📆Foolscap 2021 - Feburary 12-14th📆
 Foolscap 2021 will take place Feburary 12-14 at the Hilton Seattle Airport.
