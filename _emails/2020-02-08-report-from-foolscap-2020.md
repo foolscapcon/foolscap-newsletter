@@ -8,13 +8,25 @@ Thanks for comming to Foolscap 2020!  It wouldn't have been possible without all
 In for a penny, in for a pound!
 - Captain Douglas Beal
 
+[![Foolscap Captain Douglas Beal in Folded Paper Boat Hat with Eyes](https://capn "Captain")](https://fullsized image)
 
-
-# 🗳 Report from Foolscap - Send in Your Feedback 🗳
+# 🗳 Report in from Foolscap - Send in Your Feedback 🗳
 We heard from a lot of you at Foolscap, but I know how busy it can be! Send in your kudos, feedback, and suggestions to info@foolscap.org.
 
-# 🥳Report from Foolscap - Cabaret🥳
-TODO
+
+# 🥳Report from Foolscap
+## all markdown
+[![Paper Schedule Grid on Wall](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/177f9a26-cd51-431c-b627-3f0148428708.jpg "Schedule")](https://www.foolscap.org/content/images/2020/02/f2020-wall-schedule_2000px.jpg)
+
+## Cabaret🥳
+
+## Performances
+
+## Auction
+
+## The Jester
+
+
 
 # 🔠Report from Foolscap - typesetting🔠
 - [https://en.wikipedia.org/wiki/Papyrus](https://en.wikipedia.org/wiki/Papyrus)_(typeface)
