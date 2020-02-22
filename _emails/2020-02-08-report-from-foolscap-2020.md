@@ -21,7 +21,7 @@ We heard from a lot of you at Foolscap, but I know how busy it can be! Send in y
 
 ## Cabaret🥳
 
-Our brand new Foolscap Cabaret was a hit! Definitely watch for this to return next year. Wing and Jason co-MCed while filkers and storytellers took the stage. Our Guest of Honor read a short story about aliens and iron lungs. Tom Whitmore pelted the audience with trivia questions, then pelted correct answerers with candy. In the midst of it all we held the Auction -- a sword, a magnificent trophy (or was it a milkshake cup?), a tri-dimensional chess set and another wacky hat were among the items sent home with the highest bidder. Rounds of What's My Line? hosted and moderated by Dave Howell carried us into the night.
+Our brand new Foolscap Cabaret was a hit! Definitely watch for this to return next year. Wing and Jason co-MCed while filkers and storytellers took the stage. Our Guest of Honor read a short story about aliens and iron lungs. Tom Whitmore pelted the audience with trivia questions, then pelted correct answerers with candy. In the midst of it all we held the Auction -- a sword, a magnificent trophy (or was it a milkshake cup?), a tri-dimensional chess set and another wacky hat were among the items sent home with the highest bidder. Rounds of "I've Got a Secret" hosted and moderated by Dave Howell carried us into the night.
 
 ### Performances
 
