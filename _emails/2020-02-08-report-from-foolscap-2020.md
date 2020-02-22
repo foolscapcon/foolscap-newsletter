@@ -25,9 +25,12 @@ Our brand new Foolscap Cabaret was a hit! Definitely watch for this to return ne
 
 ### Performances
 
+[![John and Marilyn Playing](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/9555abc4-220d-4715-b61d-b21a8a8df8e6.jpg)](https://www.foolscap.org/content/images/2020/02/john-and-marilyn-playing_2000px.jpg)
 
 ### Auction
 [![Shark Hat Attacks](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/2c4cf15e-a639-4e63-80ed-e2730b464100.jpg "Shark Hat")](https://www.foolscap.org/content/images/2020/02/IMG_4736-shark-hat-attacks_2000px.jpg)
+
+[![Sabre](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/e5412fe6-2b80-4f20-a188-5814c5d290e2.jpg)](https://www.foolscap.org/content/images/2020/02/f2020-sabre-auction_2000px.jpg)
 
 [![Kazoo](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/dbe36fea-da7e-4fd2-8bff-42dc183a2297.jpg)](https://www.foolscap.org/content/images/2020/02/f2020-Kazoo-at-Auction_2000px.jpg)
 
@@ -49,12 +52,9 @@ A warm thank you to our Guest of Honor Cherie Priest, who provided countless con
 
 # Table at Norwescon <a href="https://www.norwescon.org/" title="Norwescon: The Pacific Northwest's Premier Science Fiction and Fantasy Convention!"><img src="https://www.norwescon.org/promos/nwc-microbar-88x31.png" alt="Norwescon" /></a>
 
-TODO
+We will be at Norwescon 43: "The Longest Night" on April 9–12, 2020 in SeaTac, WA. Stop by and say Hi! The Hat may make another appearance.
 
-Norwescon 43
 
-"The Longest Night"
-April 9–12, 2020 | SeaTac, WA
 
 
 # 📆Foolscap 2021 - February 12-14th📆
