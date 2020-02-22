@@ -3,13 +3,14 @@ subject: "Report from Foolscap 2020"
 ---
 
 # 🚀Captain's Log, Stardate 48634.44, USS Foolscap (ANS-42)🚀
-Thanks for comming to Foolscap 2020!  It wouldn't have been possible without all the great members.  I would like to send special thanks out to Cherie, Karen, Tom, Jeff, Beth, Steven, Jeff, Jason, Wing, Stephanie, Lile, Kathleen, Alexander, Manny, Edd, Theresa, Nicole.  I expect 2021 to be even better, and I signed on for another year to help make that happen.
+Thanks for comming to Foolscap 2020!  It wouldn't have been possible without all the great members.  I would like to send special thanks out to Cherie, Karen, Tom, Jeff, Beth, Steven, Jeff, Jason, Wing, Stephanie, Lile, Kathleen, Alexander, Manny, Edd, Theresa, Nicole.  
+
+I expect 2021 to be even better, and I signed on for another year to help make that happen.
 
 In for a penny, in for a pound!
 
-[![Foolscap Captain Douglas Beal in Folded Paper Boat Hat with Eyes](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/177193a0-370a-4d18-8f73-894422f23079.jpg "Captain")](https://www.foolscap.org/content/images/2020/02/Foolscap-Captain-Doug-with-Hat.jpg)
+✒️Captain Douglas Beal[![Foolscap Captain Douglas Beal in Folded Paper Boat Hat with Eyes](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/177193a0-370a-4d18-8f73-894422f23079.jpg "Captain")](https://www.foolscap.org/content/images/2020/02/Foolscap-Captain-Doug-with-Hat.jpg)
 
-✒️Captain Douglas Beal
 
 # 🗳 Report in from Foolscap - Send in Your Feedback 🗳
 We heard from a lot of you at Foolscap, but I know how busy it can be! Send in your kudos, feedback, and suggestions to info@foolscap.org.
@@ -20,52 +21,30 @@ We heard from a lot of you at Foolscap, but I know how busy it can be! Send in y
 
 ## Cabaret🥳
 
+Our brand new Foolscap Cabaret was a hit! Definitely watch for this to return next year. Wing and Jason co-MCed while filkers and storytellers took the stage. Our Guest of Honor read a short story about aliens and iron lungs. Tom Whitmore pelted the audience with trivia questions, then pelted correct answerers with candy. In the midst of it all we held the Auction -- a sword, a magnificent trophy (or was it a milkshake cup?), a tri-dimensional chess set and another wacky hat were among the items sent home with the highest bidder. Rounds of What's My Line? hosted and moderated by Dave Howell carried us into the night.
+
 ### Performances
 
-### Auction
 
-shark hat
+### Auction
 [![Shark Hat Attacks](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/2c4cf15e-a639-4e63-80ed-e2730b464100.jpg "Shark Hat")](https://www.foolscap.org/content/images/2020/02/IMG_4736-shark-hat-attacks_2000px.jpg)
 
-kazoo
+[![Kazoo](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/dbe36fea-da7e-4fd2-8bff-42dc183a2297.jpg)](https://www.foolscap.org/content/images/2020/02/f2020-Kazoo-at-Auction_2000px.jpg)
 
 ### The Jester
  
 [![Sipping a Jester](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/d0a1eff1-0516-46b6-9550-966d8b2118c6.jpg)](https://www.foolscap.org/content/images/2020/02/IMG_4691-sipping-jester_2000px.jpg)
-img
 
 ## ✒ Pen & Paper & Ink ✒
 
-img: Fluorescing ink
-
-## 🔠Report from Foolscap - typesetting🔠
-- [https://en.wikipedia.org/wiki/Papyrus](https://en.wikipedia.org/wiki/Papyrus)_(typeface)
-- [https://en.wikipedia.org/wiki/Garamond](https://en.wikipedia.org/wiki/Garamond)
-- [https://www.fontsquirrel.com/fonts/Diavlo](https://www.fontsquirrel.com/fonts/Diavlo)
-- [https://www.fontsquirrel.com/fonts/eb-garamond?q%5Bterm%5D=garamond&q%5Bsearch_check%5D=Y](https://www.fontsquirrel.com/fonts/eb-garamond?q%5Bterm%5D=garamond&q%5Bsearch_check%5D=Y)
-- [https://www.fontsquirrel.com/fonts/heuristica](https://www.fontsquirrel.com/fonts/heuristica)
-- Short, great primer on typography [https://www.amazon.com/Points-Spacing-Arrangement-Classic-Typography/dp/0881791199](https://www.amazon.com/Points-Spacing-Arrangement-Classic-Typography/dp/0881791199)
-- Typographer's Bible [https://www.amazon.com/Elements-Typographic-Style-Version-Anniversary/dp/0881792128](https://www.amazon.com/Elements-Typographic-Style-Version-Anniversary/dp/0881792128)
-
-
-## Publishing Software
-- Cheap at 50$ (or 150$ for entire suite, including photo-shop like Affinity Photo) [https://affinity.serif.com/en-gb/publisher/](https://affinity.serif.com/en-gb/publisher/)
-- Free! Open Source! interface similar to Inkscap [https://www.scribus.net/](https://www.scribus.net/)
-    
-## What do modern electronic techniques enabled:
-- unified design
-- print - ebooks - web
-
-
-# 📷Photos📷
-TODO
-
+[![Fluorescing Ink](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/b8f5c840-cf16-4446-ac84-4aa6eb7d04c8.jpg)](https://www.foolscap.org/content/images/2020/02/f2020-fluorescing-ink_2000px.jpg)
 
 
 # 📚Thank You to Cherie Priest📚
 A warm thank you to our Guest of Honor Cherie Priest, who provided countless conversations, a rich interview full of personal notes and insights on writing, a guide to a hazardous hobby, won our poetry slam, and revealed her hidden TV celebrity status. We hope she returns to future Foolscaps!
 
 **DON'T TURN AROUND!**
+
 
 # Table at Norwescon <a href="https://www.norwescon.org/" title="Norwescon: The Pacific Northwest's Premier Science Fiction and Fantasy Convention!"><img src="https://www.norwescon.org/promos/nwc-microbar-88x31.png" alt="Norwescon" /></a>
 

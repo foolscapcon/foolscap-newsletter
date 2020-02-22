@@ -36,3 +36,8 @@ capuchin schedule _emails/<filename>
 - edit _config.yml, change template_id to template identfier from url
 ## check changed into git
 - doo iit
+
+
+# mc https://github.com/kale/mc
+gem install mc
+mc initconfig
