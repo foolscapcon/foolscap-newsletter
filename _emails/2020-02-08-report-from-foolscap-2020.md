@@ -3,7 +3,7 @@ subject: "Report from Foolscap 2020"
 ---
 
 # 🚀Captain's Log, Stardate 48634.44, USS Foolscap (ANS-42)🚀
-Thanks for coming to Foolscap 2020!  It wouldn't have been possible without all the great members.  I would like to send special thanks out to Cherie, Karen, Tom, Jeff, Beth, Steven, Jeff, Jason, Wing, Stephanie, Lile, Kathleen, Alexander, Manny, Edd, Theresa, Nicole.  
+Thanks for coming to Foolscap 2020!  It wouldn't have been possible without all the great members.  I would like to send special thanks out to Cherie, Karen, Tom, Jeff, Beth, Steven, Jeff, Jason, Wing, Stefanie, Lile, Kathleen, Alexander, Manny, Edd, Theresa, Nicole.  
 
 I expect 2021 to be even better, and I signed on for another year to help make that happen.
 
