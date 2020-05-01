@@ -2,12 +2,12 @@
 subject: "Foolscap 2021 - Staring into the Abyss"
 ---
 
-# Covid, amirite?
+# Dear Foolscap Members
+These are worrying times, and we are committed to keeping both our members and the Foolscap tradition alive.  We are monitoring Washington State official announcements and other conventions.  Stay Safe, Wash Your Hands, and Know Where Your Towel Is!
 
+# Honoring Our Past Guests of Honor
 
-## Honoring Our Past Guests of Honor
-
-While you have some time at home, do you need some books to pile on top of your TBR pile? Of course you do! Here are some recent works by some of Foolscap's past Guests of Honors.
+While you have some time at home, do you need some books to pile on top of your Read Next Pile? Of course you do! Here are some recent works by some of Foolscap's past Guests of Honors.
 
 We'll start with congratulating the authors of the Hugo nominations! [CoNZealand](https://conzealand.nz/about/explore-worldcon/world-science-fiction-society-about/hugo-awards) released the finalists and we had several GoH's on the list, appearing once, twice or (amazingly!) three times. CoNZealand has recently gone virtual and at this time are still figuring out the details, but you can vote for the winners with either a supporting or attending membership. 
 
@@ -33,7 +33,7 @@ C.J Cherryh:  *Resurgence* (Foreigner 20) (DAW)
 Mark Ferrari: *Twice* is an [ongoing serial](https://www.twice-the-serial.com/) on episode 42
 Barbara Hambly: *Lady of Perdition* (Benjamin January 17) (Severn House Publishers)
 
-## Support Your Local bookstore — order online
+# Support Your Local bookstore — order online
 
 We're all reeling from the effects of social isolation, but independent bookstores are getting hit really hard. If you have a few dollars to spare (and a reading list we've just helped you grow), try: 
 
