@@ -1,5 +1,5 @@
 ---
-subject: "Foolscap 2021 - Staring into the Abyss"
+subject: "Foolscap 2021 - Reading While We Wait"
 ---
 
 # Dear Foolscap Members
@@ -23,15 +23,15 @@ Lodestar Award for Best YA (not a Hugo): *Minor Mage* by T. Kingfisher, AKA Ursu
 
 Of course, not everything needs a Hugo nominations. Recent and upcoming works from our Guests of Honor include:
 
-Cherie Priest: *The Toll* (Tor books)
-Nancy Kress: *Sea Change* (May 2020) (Tachyon Press) , *The Eleventh Gate* (May 2020) (Baen)
-Seanan McGuire: *In An Absent Dream* (Tor.Com) Hugo Novella Finalist 2020, *Middlegame*, (Tor.Com) Hugo Novel Finalist 2020, *Unkindest Tide* (October Daye #13)(DAW Books), *That Ain't Witchcraft* and  *Imaginary Numbers* (InCryptid # 8 & 9) (DAW Books) Hugo Series Finalist 2020,  
-Mira Grant, AKA Seanan McGuire: *In the Shadow of Spindrift House* (Subterranean Press) 
-Patricia Briggs: *Smoke Bitten* (Ace). With a smirk we most confirm that the upcoming *Flea Bitten* was an [April Fools prank](http://www.patriciabriggs.com/old%20posts/index.shtml).
-T. Kingfisher, AKA Ursula Vernon: *Minor Mage* (Lodestar Not-a-Hugo Finalist 2020)(Red Wombat Studio), *Paladin's Grace* (Red Wombat Studio), *The Twisted Ones* (Gallery/Saga Press)
-C.J Cherryh:  *Resurgence* (Foreigner 20) (DAW)
-Mark Ferrari: *Twice* is an [ongoing serial](https://www.twice-the-serial.com/) on episode 42
-Barbara Hambly: *Lady of Perdition* (Benjamin January 17) (Severn House Publishers)
+- Cherie Priest: *The Toll* (Tor books)
+- Nancy Kress: *Sea Change* (May 2020) (Tachyon Press) , *The Eleventh Gate* (May 2020) (Baen)
+- Seanan McGuire: *In An Absent Dream* (Tor.Com) Hugo Novella Finalist 2020, *Middlegame*, (Tor.Com) Hugo Novel Finalist 2020, *Unkindest Tide* (October Daye #13)(DAW Books), *That Ain't Witchcraft* and  *Imaginary Numbers* (InCryptid # 8 & 9) (DAW Books) Hugo Series Finalist 2020,  
+- Mira Grant, AKA Seanan McGuire: *In the Shadow of Spindrift House* (Subterranean Press) 
+- Patricia Briggs: *Smoke Bitten* (Ace). With a smirk we must confirm that the upcoming *Flea Bitten* was an [April Fools prank](http://www.patriciabriggs.com/old%20posts/index.shtml).
+- T. Kingfisher, AKA Ursula Vernon: *Minor Mage* (Lodestar Not-a-Hugo Finalist 2020)(Red Wombat Studio), *Paladin's Grace* (Red Wombat Studio), *The Twisted Ones* (Gallery/Saga Press)
+- C.J Cherryh:  *Resurgence* (Foreigner 20) (DAW)
+- Mark Ferrari: *Twice* is an [ongoing serial](https://www.twice-the-serial.com/) on episode 42
+- Barbara Hambly: *Lady of Perdition* (Benjamin January 17) (Severn House Publishers)
 
 # Support Your Local bookstore — order online
 
