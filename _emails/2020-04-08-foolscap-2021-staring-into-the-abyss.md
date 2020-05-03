@@ -17,13 +17,14 @@ We'll start with congratulating the authors of the Hugo nominations! [CoNZealand
 - *Middlegame* by Seanan McGuire
 
 ### Best Novella
-- *In An Absent Dream* by Seanan McGuire (double!) **AND** "Anxiety is the Dizziness of Freedom" by Ted Chiang 
+- *In An Absent Dream* by Seanan McGuire
+- **AND** "Anxiety is the Dizziness of Freedom" by Ted Chiang 
 
 ### Best Novelette
-- "Omphalos" by Ted Chiang (double!)
+- "Omphalos" by Ted Chiang
 
 ### Best Series
-- *InCryptid* by Seanan McGuire (triple!)
+- *InCryptid* by Seanan McGuire
 
 ### Lodestar Award for Best YA (not a Hugo)
 - *Minor Mage* by T. Kingfisher, AKA Ursula Vernon.
