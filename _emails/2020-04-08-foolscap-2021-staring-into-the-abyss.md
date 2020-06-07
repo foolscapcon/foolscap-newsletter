@@ -5,6 +5,9 @@ subject: "Foolscap 2021 - Reading While We Wait"
 # Dear Foolscap Members
 These are worrying times, and we are committed to keeping both our members and the Foolscap tradition alive.  We are monitoring Washington State official announcements and other conventions.  Stay Safe, Wash Your Hands, and Know Where Your Towel Is!
 
+## Convention Watch
+Tor has a handy list of [postponements, cancelations, and virtualizations](https://www.tor.com/2020/03/15/coronavirus-the-sci-fi-fantasy-conventions-canceled-so-far/)
+
 # Staying Safe and Sane
 
 ## Honoring Our Past Guests of Honor
@@ -86,4 +89,7 @@ You can also order books directly from these Pacific Northwest publishers:
 Got more? Send them in!
 
 ## Order Masks Online From a Past Foolscap Vendor
-[Chibi Yeti](https://www.chibiyeti.com/sweetthreads?category=Masks) has courtesy masks screen printed with geeky designs and great at limiting airborne effusions
+[Chibi Yeti](https://www.chibiyeti.com/sweetthreads?category=Masks) has courtesy masks screen printed with geeky designs and great at limiting airborne effusions.
+
+[![chibi-yeti-promo-pic_2000px](https://mcusercontent.com/b53b9cb1a532a60b0f4675146/images/955c34b1-3c6f-454f-be3a-1cf460728ace.jpg "Masks")](https://www.foolscap.org/content/images/2020/05/chibi-yeti-promo-pic_2000px.jpg)
+
