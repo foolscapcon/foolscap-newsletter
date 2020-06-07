@@ -41,3 +41,10 @@ capuchin schedule _emails/<filename>
 # mc https://github.com/kale/mc
 gem install mc
 mc initconfig
+
+# images
+- blog wants 2000px w images
+- mailchimp wants 
+  - Full-width section images	564px
+  - 2 column section images	264px
+  - 3 column section images	164px
