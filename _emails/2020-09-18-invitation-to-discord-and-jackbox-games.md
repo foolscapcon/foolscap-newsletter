@@ -33,9 +33,10 @@ The night of the event you’ll visit <https://jackbox.tv> with your second devi
 
 (For those of you new to Discord, we’ve prepared a quick intro to its videoconference settings here: <https://www.foolscap.org/discord-overview/> .)
 
-# "So it's at 7:00 on Thursday?"
-Yes, that's when we'll all gather on Discord in the General Voice Channel. You may want to show up a few minutes early to test your audio/video settings one last time. Then we'll break out the games and let the merriment commence.
+# “So it’s at 7:00 p.m. on Thursday?”
 
-# "Games stress me out. Do I have to play?"
-No, you are welcome to join the channel but not the games and shout encouragement as an audience. Or wander back to the text channel Commons to hang out in a quieter space. But it would be fun to "see" you.
+Correct! That’s when we’ll all gather on Discord in the General voice channel. You may want to show up a few minutes early to test your audio/video settings one last time. Then we’ll break out the games and let the merriment commence.
 
+# “Games stress me out. Do I have to play?”
+
+Not at all! You are welcome to join the channel and just shout encouragement, or wander back to the Commons channel for some text chat in a quieter atmosphere. But it would be fun to “see” you!
