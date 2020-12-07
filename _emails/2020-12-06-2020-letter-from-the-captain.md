@@ -28,9 +28,7 @@ The first virtual Foolscap (Feb. 12-14) is scheduling panels. Send your ideas, a
 Open ConCom Meeting for Programming, Sunday Jan. 17 3pm on Zoom
 Meet with the ConCom to plan the convention. Here’s how:
 - Come to discord for the link or 
-- send us an email to [info@foolscap.org](mailto:info@foolscap.org?subject=Request%20to%20Join%20Open%20ConCom%20Meeting) 
-
-to join our Open ConCom Planning meeting Sunday January 17th 3pm on Zoom
+- send us an email [info@foolscap.org](mailto:info@foolscap.org?subject=Request%20to%20Join%20Open%20ConCom%20Meeting) 
 
 
 # Next Foolscap Thursday Event
