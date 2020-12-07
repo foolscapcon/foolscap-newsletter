@@ -24,8 +24,8 @@ The first virtual Foolscap (Feb. 12-14) is scheduling panels. Send your ideas, a
 
 [programming@foolscap.org](mailto:programming@foolscap.org)
 
-## Open Convention Committee Meeting for Programming, Sunday January 17th 3pm PST on Zoom
-Meet with the Convention Committee to plan the convention. Here’s how:
+## Open Convention Committee Meeting for Programming
+Meet with the Convention Committee **Sunday,  Jan. 17th 3:00 pm PST** on Zoom to plan the convention. Here’s how:
 
 - Come to discord for the link or 
 - send us an email [info@foolscap.org](mailto:info@foolscap.org?subject=Request%20to%20Join%20Open%20ConCom%20Meeting) 
