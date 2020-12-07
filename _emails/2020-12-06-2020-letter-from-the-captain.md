@@ -5,7 +5,7 @@ subject: "Foolscap 2021 - Letter from the Captain"
 # Foolscap 2021 Will be Virtual
 Hello Foolscapians,
 
-We were fortunate that Foolscap 2020 landed before the Pandemic exploded. Unfortunately we we are now in the middle of the Pandemic, and the only safe way forward is with a virtual convention.
+We were fortunate that Foolscap 2020 landed before the Pandemic exploded. Unfortunately we are now in the middle of the Pandemic, and the only safe way forward is with a virtual convention.
 
 A virtual Foolscap will be very different, but with your participation I'm confident we can bring Foolscap into the future
 
@@ -24,15 +24,15 @@ The first virtual Foolscap (Feb. 12-14) is scheduling panels. Send your ideas, a
 
 [programming@foolscap.org](mailto:programming@foolscap.org)
 
-## Open ConCom Meeting for Programming, Sunday January 17th 3pm on Zoom
-Open ConCom Meeting for Programming, Sunday Jan. 17 3pm on Zoom
-Meet with the ConCom to plan the convention. Here’s how:
+## Open Convention Committee Meeting for Programming, Sunday January 17th 3pm PST on Zoom
+Meet with the Convention Committee to plan the convention. Here’s how:
+
 - Come to discord for the link or 
 - send us an email [info@foolscap.org](mailto:info@foolscap.org?subject=Request%20to%20Join%20Open%20ConCom%20Meeting) 
 
 
 # Next Foolscap Thursday Event
-We’ve been having a great time with panels and games. Next up: Games! Join us on discord **Thursday, Dec. 10th from 7:00 - 8:00 P.M. PDT** for more Jackbox games.
+We’ve been having a great time with panels and games. Next up: Games! Join us on discord **Thursday, Dec. 10th from 7:00 - 8:00 P.M. PST** for more Jackbox games.
 
 Head to this invite link to join Foolscap’s Discord server:
 <https://discord.gg/jpjCQsR>
