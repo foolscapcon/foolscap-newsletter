@@ -25,9 +25,9 @@ capuchin schedule _emails/<filename>
 
 
 # update mailchimp template
-- duplicate last foolscap template (ex "2020 Foolscap HTML Template.html")
-- edit dates & years
-- go to Mail Chimp Dashboard; Brands->Templates; Create Template; Import HTML
+- duplicate last foolscap template (ex "mailchimp templates/2020 Foolscap HTML Template.html")
+- edit dates & years & location (ex "2020, Hilton...")
+- go to Mail Chimp Dashboard; Campaigns->Email Templates; [Create Template]; [Code your own]->Import HTML
 - select edited template html file and name it with Foolscap YEAR
 ## update capuchin to use new template
 - select template
